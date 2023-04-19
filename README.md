@@ -8,12 +8,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](	https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryukdgy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglasngc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukdgy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglasngc&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### CONTACTS
 <a href="https://www.instagram.com/doulglasgc/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
 <a href="https://br.linkedin.com/in/douglas-do-n-gonçalves-13910226b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
-![Snake animation](https://github.com/Ryukdgy/Ryukdgy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Douglasngc/Douglasngc/blob/output/github-contribution-grid-snake.svg)
